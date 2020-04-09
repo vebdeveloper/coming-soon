@@ -460,7 +460,13 @@ footer .subscribeBox input[type='submit']{
 
 /*coming soon*/
 
-
+.comingSoonBut{ 
+	color: white;
+	font-size: 1.1em; 
+}
+.comingSoonBut:hover{
+	color: white;
+ }
 .comingSoonLogo ,.comingSoonLogoWhite{
 	display: inline ;
 	width: 15em;
@@ -536,7 +542,7 @@ footer .subscribeBox input[type='submit']{
 	font-size: 1.6em;
 	/*font-family: 'IRANYekanFN2';*/
 }
-#getting-started{ 
+.getting-started{ 
 	margin-top: 2em;
 	border-radius: 5em;
 	display: inline-block;
@@ -549,7 +555,7 @@ footer .subscribeBox input[type='submit']{
     box-shadow: 0 2px 5px -1px #BFBFC6;
 }
 
-#getting-started p{
+.getting-started p{
 	/*float: left;*/
 	position: relative;
 	color: white;
@@ -558,7 +564,7 @@ footer .subscribeBox input[type='submit']{
 	/*border-left: 1px solid white; */
 	padding: .4em;
 }
-#getting-started p:after,#getting-started p:last-child:before{
+.getting-started p:after,.getting-started p:last-child:before{
 	position: absolute;
 	top: 50%;
 	left: 0;
@@ -570,13 +576,13 @@ footer .subscribeBox input[type='submit']{
 	height: 3.4em;
 	background: white;
 }
-#getting-started p:last-child:before{
+.getting-started p:last-child:before{
 	/*border-right: 1px solid white; */
 	left: auto;
 	right: 0;
 
 }
-#getting-started p span{
+.getting-started p span{
 	font-weight: bold;
 	font-size: 2em;
 	border-bottom: 1px solid white;
