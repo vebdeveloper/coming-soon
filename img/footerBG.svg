@@ -1,0 +1,17 @@
+<svg width="1920" height="242.6" xmlns="http://www.w3.org/2000/svg" class="svg replaced-svg">
+ <style type="text/css">
+  <!-- .st0{fill:#b186b8;}
+	.st1{fill:#b18608;} -->
+ </style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="244.6" width="1922" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" height="137.6" width="1920" class="st1" y="-829.4" x="-1036"/>
+  <rect id="svg_3" height="380" width="2446" class="st1" y="-829.4" x="-1136"/>
+  <path transform="rotate(-179.93679809570312 963.9872436523438,119.27815246582033) " fill="#ffffff" id="svg_1" d="m1932.95642,64.482009l6.05196,174.10281l-1948.024941,6.00845l-2.017313,-35.91126c173.440385,-91.9 372.496886,-125.7 596.967018,-101.3c337.667068,36.5 430.411602,-70.4 658.222966,-106.4c227.710115,-35.9 447.725268,77.7 583.298337,75.6c35.167324,-4.03333 70.334659,-8.06667 105.501973,-12.1z" class="st0"/>
+ </g>
+</svg>
